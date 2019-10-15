@@ -23,7 +23,7 @@ public class HowOldAreYouSpecifically {
       t = "You can do pretty much anything";
     }
 
-    System.out.print(String.format("%s, %s.", t, inputName));
+    System.out.print(String.format("\n%s, %s.", t, inputName));
 
     scanner.close();
 

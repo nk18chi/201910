@@ -1,10 +1,7 @@
 package Week1.ForLoops;
 
-import com.sun.tools.javac.util.StringUtils;
-
 import java.util.ArrayList;
 import java.util.Scanner;
-import java.util.StringJoiner;
 
 public class CountingMachine {
   public static void main(String[] args) {
